@@ -1,0 +1,17 @@
+{
+  "files": {
+    "../../../../public/typo3conf/ext/tea/.editorconfig": ".editorconfig",
+    "../../../../public/typo3conf/ext/tea/.php_cs.php": ".php_cs.php",
+    "../../../../public/typo3conf/ext/tea/phive.xml": "phive.xml",
+    "../../../../public/typo3conf/ext/tea/phpcs.xml": "phpcs.xml",
+    "../../../../public/typo3conf/ext/tea/phpstan.neon": "phpstan.neon"
+  },
+  "gitignore": [
+    "/.editorconfig",
+    "/phive.xml",
+    "/phpcs.xml",
+    "/phpstan.neon",
+    "/.php_cs.php",
+    "/.php_cs.cache"
+  ]
+}
