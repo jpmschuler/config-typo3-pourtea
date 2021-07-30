@@ -1,0 +1,5 @@
+# This file is automatically created by jpmschuler/config-typo3-pourtea
+# It will be overwritten each time the config is generated
+# However, it is not gitignored, as you need to commit it for CI/CD to run
+include:
+  - '/.gitlab/pipeline/.gitlab-ci.yml'

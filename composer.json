@@ -1,20 +1,20 @@
 {
-    "name": "jpmschuler/config-typo3-pourtea",
-    "type": "project-configuration",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "J. Peter M. Schuler",
-            "email": "j.peter.m.schuler@uni-due.de"
-        }
-    ],
-    "require": {
-        "bk2k/configuration-installer": "*@dev",
-        "ttn/tea": "dev-main"
-    },
-    "extra": {
-        "typo3/cms": {
-            "web-dir": "vendor/public"
-        }
+  "name": "jpmschuler/config-typo3-pourtea",
+  "type": "project-configuration",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "J. Peter M. Schuler",
+      "email": "j.peter.m.schuler@uni-due.de"
     }
+  ],
+  "require": {
+    "bk2k/configuration-installer": "*@dev",
+    "ttn/tea": "dev-main"
+  },
+  "extra": {
+    "typo3/cms": {
+      "web-dir": "vendor/public"
+    }
+  }
 }

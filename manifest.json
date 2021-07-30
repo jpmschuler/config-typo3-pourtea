@@ -1,10 +1,12 @@
 {
   "files": {
-    "../../../../public/typo3conf/ext/tea/.editorconfig": ".editorconfig",
-    "../../../../public/typo3conf/ext/tea/.php_cs.php": ".php_cs.php",
-    "../../../../public/typo3conf/ext/tea/phive.xml": "phive.xml",
-    "../../../../public/typo3conf/ext/tea/phpcs.xml": "phpcs.xml",
-    "../../../../public/typo3conf/ext/tea/phpstan.neon": "phpstan.neon"
+    "ttn/tea:.editorconfig": ".editorconfig",
+    "ttn/tea:.php_cs.php": ".php_cs.php",
+    "ttn/tea:phive.xml": "phive.xml",
+    "ttn/tea:phpcs.xml": "phpcs.xml",
+    "ttn/tea:phpstan.neon": "phpstan.neon",
+    "ttn/tea:.gitlab": ".gitlab",
+    "payload/.gitlab-ci.yml": ".gitlab-ci.yml"
   },
   "gitignore": [
     "/.editorconfig",
